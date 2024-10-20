@@ -19,7 +19,7 @@ It's built entirely with **HTML**, **CSS**, and **Bootstrap**, ensuring a smooth
   To view this project, simply clone the repository and open the `index.html` file
   in your browser
   ``` bash
-  git clone
+  git clone https://github.com/Alphaxardjr/netflix-home-page.git
   ```
 
   **Or**
